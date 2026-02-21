@@ -302,7 +302,7 @@ client.send_event(&new_event).await?;
   "kind": 38384,
   "content": "",
   "tags": [
-    ["d", "npub1abc123..."],
+    ["d", "28ca054b387641cecd0b6b54be1452063bd42988567f758a2ba67641939f363d"],
     ["total_reviews", "42"],
     ["total_rating", "4.8"],
     ["last_rating", "5"],
